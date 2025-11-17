@@ -1,12 +1,7 @@
-// ===============================================
 //  Tic-Tac-Toe Game
 //  Author: Melissa Guevara Hernandez
 //  Class: CISC 192
-//  Assignment: TicTacToe (Classes & Objects)
-//  Date: November 2025
-//  Description: Implements a full 2-player Tic-Tac-Toe
-//               game using a class-based design.
-// ===============================================
+//  Assignment: TicTacToe 
 
 #include <iostream>
 using namespace std;
